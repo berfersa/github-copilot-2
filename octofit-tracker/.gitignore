@@ -1,0 +1,6 @@
+# Ignorar entorno virtual local
+backend/venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
